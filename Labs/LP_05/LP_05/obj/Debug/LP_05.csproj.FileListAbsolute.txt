@@ -1,0 +1,7 @@
+D:\Университет\3_семестр\ООП - Радиванович  - Пацей\OOP_Labs\Labs\LP_05\LP_05\bin\Debug\LP_05.exe.config
+D:\Университет\3_семестр\ООП - Радиванович  - Пацей\OOP_Labs\Labs\LP_05\LP_05\bin\Debug\LP_05.exe
+D:\Университет\3_семестр\ООП - Радиванович  - Пацей\OOP_Labs\Labs\LP_05\LP_05\bin\Debug\LP_05.pdb
+D:\Университет\3_семестр\ООП - Радиванович  - Пацей\OOP_Labs\Labs\LP_05\LP_05\obj\Debug\LP_05.csprojAssemblyReference.cache
+D:\Университет\3_семестр\ООП - Радиванович  - Пацей\OOP_Labs\Labs\LP_05\LP_05\obj\Debug\LP_05.csproj.CoreCompileInputs.cache
+D:\Университет\3_семестр\ООП - Радиванович  - Пацей\OOP_Labs\Labs\LP_05\LP_05\obj\Debug\LP_05.exe
+D:\Университет\3_семестр\ООП - Радиванович  - Пацей\OOP_Labs\Labs\LP_05\LP_05\obj\Debug\LP_05.pdb

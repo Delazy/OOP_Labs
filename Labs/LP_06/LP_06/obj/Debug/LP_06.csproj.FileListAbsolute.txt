@@ -1,0 +1,6 @@
+D:\Университет\3_семестр\ООП - Радиванович  - Пацей\OOP_Labs\Labs\LP_06\LP_06\bin\Debug\LP_06.exe.config
+D:\Университет\3_семестр\ООП - Радиванович  - Пацей\OOP_Labs\Labs\LP_06\LP_06\bin\Debug\LP_06.exe
+D:\Университет\3_семестр\ООП - Радиванович  - Пацей\OOP_Labs\Labs\LP_06\LP_06\bin\Debug\LP_06.pdb
+D:\Университет\3_семестр\ООП - Радиванович  - Пацей\OOP_Labs\Labs\LP_06\LP_06\obj\Debug\LP_06.csprojAssemblyReference.cache
+D:\Университет\3_семестр\ООП - Радиванович  - Пацей\OOP_Labs\Labs\LP_06\LP_06\obj\Debug\LP_06.exe
+D:\Университет\3_семестр\ООП - Радиванович  - Пацей\OOP_Labs\Labs\LP_06\LP_06\obj\Debug\LP_06.pdb
